@@ -1,0 +1,15 @@
+.card {
+    border: 2px solid #333;
+    border-radius: 8px;
+    padding: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    p {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        margin: 0;
+    }
+}
